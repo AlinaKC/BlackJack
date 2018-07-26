@@ -1,0 +1,10 @@
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\bin\Debug\netcoreapp2.1\BlackDecker_Work.deps.json
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\bin\Debug\netcoreapp2.1\BlackDecker_Work.runtimeconfig.json
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\bin\Debug\netcoreapp2.1\BlackDecker_Work.runtimeconfig.dev.json
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\bin\Debug\netcoreapp2.1\BlackDecker_Work.dll
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\bin\Debug\netcoreapp2.1\BlackDecker_Work.pdb
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\obj\Debug\netcoreapp2.1\BlackDecker_Work.csproj.CoreCompileInputs.cache
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\obj\Debug\netcoreapp2.1\BlackDecker_Work.AssemblyInfoInputs.cache
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\obj\Debug\netcoreapp2.1\BlackDecker_Work.AssemblyInfo.cs
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\obj\Debug\netcoreapp2.1\BlackDecker_Work.dll
+C:\Users\insight Workshop\source\repos\BlackDecker_Work\BlackDecker_Work\obj\Debug\netcoreapp2.1\BlackDecker_Work.pdb
